@@ -1,1 +1,1 @@
-A django Consumer Resource Management App
+A django Consumer Resource Management App.
